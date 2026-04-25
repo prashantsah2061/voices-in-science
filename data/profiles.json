@@ -51,6 +51,7 @@
         "L'Oréal–UNESCO For Women in Science Award (2016)",
         "President of The World Academy of Sciences (since 2022)"
       ],
+      "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Quarraisha_Abdool_Karim.jpg", "credit": "Wikimedia Commons · CC BY-SA 2.0" },
       "sources": [
         { "title": "TWAS President Profile", "url": "https://twas.org/directory/abdool-karim-quarraisha" },
         { "title": "PNAS QnA on Lasker Award", "url": "https://www.pnas.org/doi/10.1073/pnas.2416096121" },
@@ -80,6 +81,7 @@
         "First female scientist at the Royal Horticultural Society",
         "Magnolia kobus 'Janaki Ammal' named after her"
       ],
+      "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/E_K_Janaki_Ammal.jpg", "credit": "Wikimedia Commons · Public Domain" },
       "sources": [
         { "title": "University of Michigan Rackham Profile", "url": "https://rackham.umich.edu/project/janaki-ammal-edvaleth-kakkat/" },
         { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Janaki_Ammal" }
@@ -108,6 +110,7 @@
         "Right Livelihood Award (1984)",
         "Author of Unbowed: A Memoir (2006)"
       ],
+      "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Wangari_Maathai_in_2001.jpg", "credit": "Wikimedia Commons · CC BY-SA 2.0" },
       "sources": [
         { "title": "Nobel Prize Biography", "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/biographical/" },
         { "title": "Green Belt Movement", "url": "https://www.greenbeltmovement.org/wangari-maathai/" }
@@ -163,6 +166,7 @@
         "Star 'Bibha' (HD 86081) named in her honor by the IAU (2019)",
         "Decades of contributions at the Tata Institute of Fundamental Research"
       ],
+      "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Indian_Scientist_Bibha_Chowdhuri.jpg", "credit": "Wikimedia Commons · Public Domain" },
       "sources": [
         { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bibha_Chowdhuri" }
 
@@ -191,6 +195,7 @@
         "The 'Wu Experiment' is in standard physics textbooks worldwide",
         "Comstock Prize in Physics (1964)"
       ],
+      "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Chien-shiung_Wu_%281912-1997%29_C.jpg", "credit": "Wikimedia Commons · Public Domain" },
       "sources": [
         { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Chien-Shiung_Wu" },
         { "title": "American Physical Society Profile", "url": "https://www.aps.org/publications/apsnews/200410/history.cfm" }
@@ -219,6 +224,7 @@
         "Honored on Egyptian postage stamps",
         "A street in Cairo and several schools are named after her"
       ],
+      "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/SameeraMoussa.jpg", "credit": "Wikimedia Commons · Public Domain" },
       "sources": [
         { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Sameera_Moussa" },
         { "title": "Arab America Profile", "url": "https://www.arabamerica.com/the-mysterious-demise-of-samira-moussa/" }
@@ -246,6 +252,7 @@
         "Author of widely-used physics textbooks in West African schools",
         "Mentor to dozens of women now active in African physics"
       ],
+      "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Prof._Francisca_Okeke.jpg", "credit": "Wikimedia Commons · CC BY-SA 4.0" },
       "sources": [
 
         { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Francisca_Nneka_Okeke" }

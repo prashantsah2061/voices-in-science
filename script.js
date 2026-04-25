@@ -72,8 +72,12 @@ function render() {
 
 function cardHTML(p) {
   const dates = p.died ? `${p.born} — ${p.died}` : `b. ${p.born}`;
+  const photoHTML = p.image
+    ? `<div class="card-photo"><img src="${p.image.url}" alt="${escapeHTML(p.name)}" loading="lazy" /></div>`
+    : `<div class="card-photo card-photo--placeholder" aria-hidden="true"><span class="card-initials">${getInitials(p.name)}</span></div>`;
   return `
     <button class="profile-card" data-id="${p.id}" type="button">
+      ${photoHTML}
       <div class="card-meta">
         <span>${p.region}</span>
         <span class="card-flag" aria-hidden="true">${p.flag}</span>
@@ -97,6 +101,12 @@ function openModal(id) {
   const dates = p.died ? `${p.born} — ${p.died}` : `Born ${p.born}`;
   const honorific = p.honorific ? p.honorific + " " : "";
 
+  const portraitHTML = p.image
+    ? `<figure class="modal-portrait">
+         <img src="${p.image.url}" alt="${escapeHTML(p.name)}" loading="lazy" />
+         <figcaption>${escapeHTML(p.image.credit)}</figcaption>
+       </figure>`
+    : "";
   const bioHTML = p.bio.map((para) => `<p>${escapeHTML(para)}</p>`).join("");
   const achievementsHTML = (p.achievements || [])
     .map((a) => `<li>${escapeHTML(a)}</li>`)
@@ -119,6 +129,7 @@ function openModal(id) {
 
     <div class="modal-section">
       <h3>Biography</h3>
+      ${portraitHTML}
       ${bioHTML}
     </div>
 
@@ -227,7 +238,14 @@ function buildEmailURL() {
   return `mailto:${NOMINATION_EMAIL}?subject=${subject}&body=${body}`;
 }
 
-// ---------- ESCAPE HTML ----------
+// ---------- HELPERS ----------
+function getInitials(name) {
+  const words = name.trim().split(/\s+/);
+  return words.length >= 2
+    ? (words[0][0] + words[words.length - 1][0]).toUpperCase()
+    : words[0].slice(0, 2).toUpperCase();
+}
+
 function escapeHTML(str) {
   if (str == null) return "";
   return String(str)
