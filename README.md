@@ -92,7 +92,8 @@ To **add an approved nomination to the live site**:
 ```
 
 4. Make sure the JSON is valid (commas in the right places). If you're not sure, paste it into [jsonlint.com](https://jsonlint.com) before committing.
-5. Commit the change. The site updates within a minute or two.
+5. This archive is text-only, so you do not need to add photo/image fields.
+6. Commit the change. The site updates within a minute or two.
 
 ---
 

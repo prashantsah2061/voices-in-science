@@ -189,6 +189,9 @@ function buildGitHubURL() {
       "## Sources",
       "(at least one link — Wikipedia, peer-reviewed paper, biography, news article, official profile)",
       "",
+      "## Photos",
+      "(No photos needed for this archive)",
+      "",
       "## Why she belongs in this archive",
       "(1–2 sentences in your own words)",
       "",
@@ -215,6 +218,8 @@ function buildEmailURL() {
       "Obstacles she faced:",
       "",
       "Sources (at least one link):",
+      "",
+      "Photos: (not needed)",
       "",
       "Why she belongs in the archive:",
     ].join("\n")
