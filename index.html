@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Voices in Science — Recovering Women Scientists from the Global South</title>
+  <meta name="description" content="An archive of women scientists from the Global South whose contributions have been overlooked, minimized, or erased from the historical record." />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,300..900,0..100,0..1&family=Crimson+Pro:ital,wght@0,300..900;1,300..900&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a href="#top" class="site-mark">
+      <span class="mark-text">Voices in Science</span>
+    </a>
+    <nav class="site-nav">
+      <a href="#archive">Archive</a>
+      <a href="#about">About</a>
+      <a href="#nominate">Nominate</a>
+    </nav>
+  </header>
+
+  <main id="top">
+
+    <!-- HERO -->
+    <section class="hero">
+      <div class="hero-inner">
+        <p class="eyebrow">An archive in progress</p>
+        <h1 class="hero-title">
+          Women in science from the <em>Global South</em>, restored to the record.
+        </h1>
+        <p class="hero-lede">
+          For generations, scientific history has centered women from the United States and Western Europe. The lives, discoveries, and obstacles of women scientists from Africa, Asia, Latin America, and the Middle East have been overlooked, minimized, or written out entirely. This archive begins the work of restoring them.
+        </p>
+        <div class="hero-cta">
+          <a href="#archive" class="btn btn-primary">Browse the archive</a>
+          <a href="#nominate" class="btn btn-ghost">Nominate someone</a>
+        </div>
+      </div>
+      <div class="hero-quote">
+        <blockquote>
+          <p>&ldquo;Your silence will not protect you.&rdquo;</p>
+          <cite>— Audre Lorde</cite>
+        </blockquote>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="about" class="about">
+      <div class="about-inner">
+        <h2 class="section-title">About this project</h2>
+        <div class="about-grid">
+          <div class="about-text">
+            <p>
+              This project began as a final paper for HP 316, a Women's and Gender Studies course. Inspired by Audre Lorde's call to transform silence into language, by Jean Kilbourne's writing on the erasure of women from America's story, and by Rebecca Solnit's <em>City of Women</em> map project, it asks a simple question: <strong>who has scientific history been silent about, and how do we get them back?</strong>
+            </p>
+            <p>
+              Existing recovery projects do real work, but they tend to center women from the United States and Europe. The result is a partial record. Women like Tebello Nyokong, Quarraisha Abdool Karim, Janaki Ammal, and Wangari Maathai — whose research has shaped global health, agriculture, and the environment — remain largely absent from popular accounts of the women who built modern science.
+            </p>
+            <p>
+              The archive is small and growing. It depends on nominations from readers, students, teachers, and researchers around the world. If you know a woman scientist from the Global South whose story belongs here, please <a href="#nominate">submit a nomination</a>.
+            </p>
+          </div>
+          <aside class="about-pillars">
+            <div class="pillar">
+              <span class="pillar-num">01</span>
+              <h3>Recovery</h3>
+              <p>Surface women whose scientific contributions have been overlooked or erased.</p>
+            </div>
+            <div class="pillar">
+              <span class="pillar-num">02</span>
+              <h3>Context</h3>
+              <p>Document the gender, racial, colonial, and class barriers each woman faced.</p>
+            </div>
+            <div class="pillar">
+              <span class="pillar-num">03</span>
+              <h3>Citation</h3>
+              <p>Link every profile to verifiable sources so the archive can be trusted and cited.</p>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <!-- ARCHIVE -->
+    <section id="archive" class="archive">
+      <div class="archive-inner">
+        <div class="archive-header">
+          <h2 class="section-title">The archive</h2>
+          <p class="archive-count" id="archiveCount">Loading…</p>
+        </div>
+
+        <div class="filter-bar">
+          <div class="search-wrap">
+            <input type="search" id="searchInput" placeholder="Search by name, country, or field…" aria-label="Search profiles" />
+          </div>
+          <div class="filter-group" role="group" aria-label="Filter by region">
+            <button class="chip is-active" data-filter="region" data-value="all">All regions</button>
+            <button class="chip" data-filter="region" data-value="Africa">Africa</button>
+            <button class="chip" data-filter="region" data-value="Asia">Asia</button>
+            <button class="chip" data-filter="region" data-value="Latin America">Latin America</button>
+            <button class="chip" data-filter="region" data-value="Middle East">Middle East</button>
+          </div>
+        </div>
+
+        <div class="profile-grid" id="profileGrid"></div>
+
+        <p class="empty-state" id="emptyState" hidden>No profiles match those filters.</p>
+      </div>
+    </section>
+
+    <!-- NOMINATE -->
+    <section id="nominate" class="nominate">
+      <div class="nominate-inner">
+        <p class="eyebrow eyebrow-light">Add to the record</p>
+        <h2 class="nominate-title">Nominate a woman scientist.</h2>
+        <p class="nominate-lede">
+          Anyone can nominate. The archive is built by readers, students, teachers, and researchers around the world. Every nomination is reviewed for accuracy and sourcing before it joins the archive.
+        </p>
+
+        <div class="nominate-card">
+          <ol class="nominate-steps">
+            <li>
+              <span class="step-num">1</span>
+              <div>
+                <h3>Click the button below</h3>
+                <p>It opens a pre-filled nomination form on GitHub. You'll need a free GitHub account.</p>
+              </div>
+            </li>
+            <li>
+              <span class="step-num">2</span>
+              <div>
+                <h3>Fill in what you know</h3>
+                <p>Name, country, field, what they did, what obstacles they faced, and at least one source.</p>
+              </div>
+            </li>
+            <li>
+              <span class="step-num">3</span>
+              <div>
+                <h3>Submit</h3>
+                <p>The editor reviews every nomination, verifies sources, and adds approved profiles to the archive.</p>
+              </div>
+            </li>
+          </ol>
+
+          <a href="#" class="btn btn-primary btn-large" id="nominateBtn">
+            Submit a nomination →
+          </a>
+
+          <p class="nominate-fallback">
+            No GitHub account? <a href="#" id="emailBtn">Send a nomination by email</a> instead.
+          </p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- PROFILE MODAL -->
+  <div class="modal" id="profileModal" hidden>
+    <div class="modal-backdrop" data-close="modal"></div>
+    <article class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button class="modal-close" data-close="modal" aria-label="Close profile">×</button>
+      <div class="modal-content" id="modalContent"></div>
+    </article>
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-mark">Voices in Science</p>
+      <p class="footer-meta">An open archive · Built for HP 316 · Sources cited on every profile</p>
+      <p class="footer-meta">
+        <a href="#" id="footerRepo">View source on GitHub</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,282 @@
+{
+  "profiles": [
+    {
+      "id": "nyokong",
+      "name": "Tebello Nyokong",
+      "honorific": "Prof.",
+      "country": "South Africa",
+      "flag": "🇿🇦",
+      "region": "Africa",
+      "field": "Chemistry",
+      "born": "1951",
+      "died": null,
+      "hook": "Chemistry against cancer — built from a Lesotho farm.",
+      "bio": [
+        "Tebello Nyokong is a Distinguished Professor of Medicinal Chemistry and Nanotechnology at Rhodes University in South Africa. She pioneered the use of phthalocyanines — light-activated dye molecules — to develop photodynamic therapy, a treatment that destroys cancer cells without surgery. Her lab is one of the most cited chemistry labs on the African continent.",
+        "She was born in Lesotho in 1951 and grew up herding sheep. As a girl, she was told that science was not for her. She earned her PhD from the University of Western Ontario in Canada, did postdoctoral research at the University of Notre Dame, and joined Rhodes University in 1991, where she has since trained over 130 graduate students and published more than 830 peer-reviewed papers."
+      ],
+      "obstacles": "Faced gender expectations in rural Lesotho that excluded girls from STEM, then institutional barriers as a Black woman entering chemistry research in the apartheid and post-apartheid era. Has spoken publicly about being one of very few women in African chemistry throughout her career.",
+      "achievements": [
+        "L'Oréal–UNESCO For Women in Science Award (2009)",
+        "African Union Kwame Nkrumah Award for Scientific Excellence",
+        "UNESCO Medal for the Development of Nanoscience and Nanotechnologies",
+        "Four honorary doctorates",
+        "Fellow of The World Academy of Sciences"
+      ],
+      "sources": [
+        { "title": "TWAS Fellow Profile", "url": "https://twas.org/directory/nyokong-tebello" },
+        { "title": "Rhodes University Faculty Page", "url": "https://www.ru.ac.za/chemistry/people/staff/tebellonyokong/" }
+      ]
+    },
+    {
+      "id": "abdool-karim",
+      "name": "Quarraisha Abdool Karim",
+      "honorific": "Prof.",
+      "country": "South Africa",
+      "flag": "🇿🇦",
+      "region": "Africa",
+      "field": "Epidemiology",
+      "born": "1960",
+      "died": null,
+      "hook": "She named the epidemic the world wasn't watching.",
+      "bio": [
+        "Quarraisha Abdool Karim is one of the world's leading HIV researchers and currently President of The World Academy of Sciences. In the 1980s, when global researchers framed HIV as a disease primarily affecting gay men in the West, she identified that in South Africa it was disproportionately infecting teenage girls and young women, who were being infected by older men.",
+        "Her landmark CAPRISA 004 trial proved that tenofovir gel could prevent HIV transmission in women. Science magazine named it one of the top 10 scientific breakthroughs of 2010. She and her husband Salim Abdool Karim received the 2024 Lasker–Bloomberg Public Service Award — often called America's Nobel — for their decades of HIV research."
+      ],
+      "obstacles": "Grew up under apartheid as a third-generation South African of Indian heritage, attending segregated schools and entering 'non-white' doors at public buildings. As a young researcher, had to fight for HIV in women to be recognized as a research priority by funders and institutions that treated the disease as a Western men's issue.",
+      "achievements": [
+        "2024 Lasker–Bloomberg Public Service Award",
+        "South Africa's Order of Mapungubwe (highest civilian honor)",
+        "TWAS-Lenovo Prize (2014)",
+        "L'Oréal–UNESCO For Women in Science Award (2016)",
+        "President of The World Academy of Sciences (since 2022)"
+      ],
+      "sources": [
+        { "title": "TWAS President Profile", "url": "https://twas.org/directory/abdool-karim-quarraisha" },
+        { "title": "PNAS QnA on Lasker Award", "url": "https://www.pnas.org/doi/10.1073/pnas.2416096121" },
+        { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Quarraisha_Abdool_Karim" }
+      ]
+    },
+    {
+      "id": "ammal",
+      "name": "Janaki Ammal",
+      "honorific": "Dr.",
+      "country": "India",
+      "flag": "🇮🇳",
+      "region": "Asia",
+      "field": "Botany",
+      "born": "1897",
+      "died": "1984",
+      "hook": "She sweetened a nation's sugarcane and was nearly written out of the record.",
+      "bio": [
+        "Edavaleth Kakkat Janaki Ammal was the first Indian woman to earn a PhD in botany (University of Michigan, 1931). She co-authored the Chromosome Atlas of Cultivated Plants (1945), a foundational reference still used today, and developed a hybrid sugarcane variety that ended India's dependence on sugarcane imports from Southeast Asia.",
+        "In 1946 she became the first female scientist hired by the Royal Horticultural Society in England. She returned to India in 1951 at the request of Prime Minister Nehru to lead the Botanical Survey of India. In her later years she became a leading conservation advocate, helping to save Kerala's Silent Valley rainforest."
+      ],
+      "obstacles": "Chose science over the arranged marriage her sisters all entered — deeply unusual for an Indian woman of her generation. At the Sugarcane Breeding Station in Coimbatore, male colleagues froze her out specifically because she was a single woman from what was then considered a 'backward caste.' India only awarded her the Padma Shri in 1977, when she was 80 years old.",
+      "achievements": [
+        "First Indian woman with a botany PhD",
+        "Co-author of Chromosome Atlas of Cultivated Plants (1945)",
+        "Padma Shri (1977)",
+        "First female scientist at the Royal Horticultural Society",
+        "Magnolia kobus 'Janaki Ammal' named after her"
+      ],
+      "sources": [
+        { "title": "University of Michigan Rackham Profile", "url": "https://rackham.umich.edu/project/janaki-ammal-edvaleth-kakkat/" },
+        { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Janaki_Ammal" }
+      ]
+    },
+    {
+      "id": "maathai",
+      "name": "Wangari Maathai",
+      "honorific": "Dr.",
+      "country": "Kenya",
+      "flag": "🇰🇪",
+      "region": "Africa",
+      "field": "Biology & Environmental Activism",
+      "born": "1940",
+      "died": "2011",
+      "hook": "She planted 51 million trees and was jailed for criticizing a judge.",
+      "bio": [
+        "Wangari Maathai was the first woman in East and Central Africa to earn a PhD (veterinary anatomy, University of Nairobi, 1971), and the first to chair an academic department at the University of Nairobi. She founded the Green Belt Movement in 1977, mobilizing rural women to plant trees as a strategy against deforestation, poverty, and political repression. Over 51 million trees have been planted to date.",
+        "In 2004 she became the first African woman to win the Nobel Peace Prize. She served in the Kenyan Parliament and as Assistant Minister for Environment from 2003 to 2005. She was repeatedly arrested and beaten by the regime of Daniel arap Moi for opposing land grabs and the destruction of public forests."
+      ],
+      "obstacles": "Her husband filed for divorce in 1979, telling the court she was 'too strong-minded for a woman' and that he was 'unable to control her.' When Maathai called the presiding judge incompetent, she was charged with contempt of court and sentenced to six months in prison. She also faced violent state repression for her environmental activism throughout the 1980s and 1990s.",
+      "achievements": [
+        "Nobel Peace Prize (2004) — first African woman to win",
+        "Founder of the Green Belt Movement (1977)",
+        "First woman in East and Central Africa with a PhD",
+        "Right Livelihood Award (1984)",
+        "Author of Unbowed: A Memoir (2006)"
+      ],
+      "sources": [
+        { "title": "Nobel Prize Biography", "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/biographical/" },
+        { "title": "Green Belt Movement", "url": "https://www.greenbeltmovement.org/wangari-maathai/" }
+      ]
+    },
+    {
+      "id": "chatterjee",
+      "name": "Asima Chatterjee",
+      "honorific": "Dr.",
+      "country": "India",
+      "flag": "🇮🇳",
+      "region": "Asia",
+      "field": "Chemistry",
+      "born": "1917",
+      "died": "2006",
+      "hook": "Her medicinal plant research produced drugs still saving lives today.",
+      "bio": [
+        "Asima Chatterjee was the first Indian woman to receive a Doctor of Science from an Indian university (University of Calcutta, 1944). Her research focused on the medicinal plants of the Indian subcontinent and the development of plant-based pharmaceuticals.",
+        "She developed anti-epileptic and anti-malarial drugs that are still in clinical use, and contributed extensively to the chemistry of vinca alkaloids — compounds that became foundational to several modern chemotherapy treatments. She published over 400 research papers across her career."
+      ],
+      "obstacles": "Worked in mid-twentieth century India when virtually no Indian universities admitted women to advanced science programs. Faced systematic exclusion from major Indian scientific committees and academies for much of her early career, despite being one of the most productive chemists in the country.",
+      "achievements": [
+        "First Indian woman with a Doctor of Science from an Indian university",
+        "First woman elected General President of the Indian Science Congress (1975)",
+        "Padma Bhushan (1975)",
+        "Founder of Lady Brabourne College's Department of Chemistry",
+        "Nominated to the Rajya Sabha (Indian Parliament)"
+      ],
+      "sources": [
+        { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Asima_Chatterjee" },
+        { "title": "Royal Society of Chemistry feature", "url": "https://www.chemistryworld.com/news/asima-chatterjee-1917-2006/3008140.article" }
+      ]
+    },
+    {
+      "id": "chowdhuri",
+      "name": "Bibha Chowdhuri",
+      "honorific": "Dr.",
+      "country": "India",
+      "flag": "🇮🇳",
+      "region": "Asia",
+      "field": "Particle Physics",
+      "born": "1913",
+      "died": "1991",
+      "hook": "Discovered a subatomic particle. Got a star named after her — 28 years late.",
+      "bio": [
+        "Bibha Chowdhuri was an Indian particle physicist who, in the 1940s, was part of the cosmic-ray research team that contributed to the early identification of the meson — a class of subatomic particles. She earned her PhD from the University of Manchester in 1949 working under Nobel laureate Patrick Blackett.",
+        "Her contributions to particle physics were systematically minimized in the historical record. She spent much of her career at the Tata Institute of Fundamental Research and the Physical Research Laboratory in Ahmedabad. In 2019, the International Astronomical Union named a star 'Bibha' in her honor — a posthumous correction of decades of obscurity."
+      ],
+      "obstacles": "As one of the only women in early Indian particle physics, she was repeatedly excluded from authorship credit on collaborative cosmic-ray research papers. Later in her career she struggled to obtain stable academic appointments, despite producing rigorous original research. Her name is largely absent from standard histories of mid-century particle physics.",
+      "achievements": [
+        "Among the first researchers to identify mesons in cosmic rays",
+        "PhD under Patrick Blackett (Nobel laureate, 1948)",
+        "Star 'Bibha' (HD 86081) named in her honor by the IAU (2019)",
+        "Decades of contributions at the Tata Institute of Fundamental Research"
+      ],
+      "sources": [
+        { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bibha_Chowdhuri" },
+        { "title": "IAU NameExoWorlds", "url": "https://www.iau.org/public/themes/naming_exoworlds/" }
+      ]
+    },
+    {
+      "id": "wu",
+      "name": "Chien-Shiung Wu",
+      "honorific": "Dr.",
+      "country": "China / United States",
+      "flag": "🇨🇳",
+      "region": "Asia",
+      "field": "Physics",
+      "born": "1912",
+      "died": "1997",
+      "hook": "Her experiment changed physics. The Nobel went to the men whose theory she proved.",
+      "bio": [
+        "Chien-Shiung Wu was a Chinese-American experimental physicist often called the 'First Lady of Physics.' She was born in Liuhe, Jiangsu Province, and emigrated to the United States in 1936 for her PhD at UC Berkeley. She worked on the Manhattan Project, contributing to uranium enrichment for the atomic bomb.",
+        "In 1956 she conducted the experiment that disproved the law of conservation of parity — one of the most important findings in twentieth-century physics. The two male theorists who had proposed the theory she experimentally confirmed, Tsung-Dao Lee and Chen-Ning Yang, won the 1957 Nobel Prize in Physics. She was excluded."
+      ],
+      "obstacles": "At Princeton, where she taught early in her career, women were not allowed in the faculty club. At Columbia she was paid less than male colleagues for years. Her exclusion from the 1957 Nobel is one of the most-cited examples of the Matilda Effect — when women's scientific contributions are credited to men.",
+      "achievements": [
+        "First woman to receive the Wolf Prize in Physics (1978)",
+        "First female president of the American Physical Society",
+        "National Medal of Science (1975)",
+        "The 'Wu Experiment' is in standard physics textbooks worldwide",
+        "Comstock Prize in Physics (1964)"
+      ],
+      "sources": [
+        { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Chien-Shiung_Wu" },
+        { "title": "American Physical Society Profile", "url": "https://www.aps.org/publications/apsnews/200410/history.cfm" }
+      ]
+    },
+    {
+      "id": "moussa",
+      "name": "Sameera Moussa",
+      "honorific": "Dr.",
+      "country": "Egypt",
+      "flag": "🇪🇬",
+      "region": "Middle East",
+      "field": "Nuclear Physics",
+      "born": "1917",
+      "died": "1952",
+      "hook": "She wanted nuclear medicine for everyone. She died at 35 under suspicious circumstances.",
+      "bio": [
+        "Sameera Moussa was the first Egyptian woman to earn a PhD in atomic radiation, and the first woman to hold a university teaching post at Cairo University. Her research focused on making medical applications of nuclear technology — particularly radiation therapy — affordable enough for use in developing countries.",
+        "She organized the Atomic Energy for Peace Conference in 1953 (held posthumously) and advocated internationally for non-military uses of nuclear physics. She died in a car accident in California in 1952 at age 35. The circumstances were widely considered suspicious; many believe she was assassinated, though this has never been confirmed."
+      ],
+      "obstacles": "Worked in mid-twentieth-century Egypt at a time when women rarely held university appointments in any field, let alone in physics. Her commitment to making nuclear medicine accessible to developing nations put her at odds with both Western and Soviet research priorities during the Cold War.",
+      "achievements": [
+        "First Egyptian woman with a PhD in atomic radiation",
+        "First woman on the faculty of Cairo University",
+        "Organized the Atomic Energy for Peace Conference",
+        "Honored on Egyptian postage stamps",
+        "A street in Cairo and several schools are named after her"
+      ],
+      "sources": [
+        { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Sameera_Moussa" },
+        { "title": "Arab America Profile", "url": "https://www.arabamerica.com/sameera-moussa-the-mother-of-atomic-energy/" }
+      ]
+    },
+    {
+      "id": "okeke",
+      "name": "Francisca Nneka Okeke",
+      "honorific": "Prof.",
+      "country": "Nigeria",
+      "flag": "🇳🇬",
+      "region": "Africa",
+      "field": "Atmospheric Physics",
+      "born": "1956",
+      "died": null,
+      "hook": "She studies how the upper atmosphere moves — and pushes for African girls in physics.",
+      "bio": [
+        "Francisca Nneka Okeke is a Nigerian physicist specializing in atmospheric physics and the study of ion currents in the upper atmosphere. She is a Professor at the University of Nigeria, Nsukka, where she became the first female Dean of the Faculty of Physical Sciences.",
+        "Her research has helped scientists better understand daily variations in the equatorial electrojet — a current of charged particles in the upper atmosphere — with implications for satellite communication and climate modeling. She has been a vocal advocate for the inclusion of African girls and women in physics."
+      ],
+      "obstacles": "Has spoken publicly about being one of very few women in Nigerian physics throughout her career, and about having to fight for laboratory access, conference travel funding, and authorship credit at multiple stages. Faced expectations that she would step back from research after marriage and motherhood.",
+      "achievements": [
+        "L'Oréal–UNESCO For Women in Science Award for Africa and the Arab States (2013)",
+        "First female Dean of Physical Sciences at the University of Nigeria",
+        "Author of widely-used physics textbooks in West African schools",
+        "Mentor to dozens of women now active in African physics"
+      ],
+      "sources": [
+        { "title": "L'Oréal–UNESCO For Women in Science", "url": "https://www.forwomeninscience.com/laureate/francisca-nneka-okeke" },
+        { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Francisca_Nneka_Okeke" }
+      ]
+    },
+    {
+      "id": "mexia",
+      "name": "Ynés Mexía",
+      "honorific": "",
+      "country": "Mexico / United States",
+      "flag": "🇲🇽",
+      "region": "Latin America",
+      "field": "Botany",
+      "born": "1870",
+      "died": "1938",
+      "hook": "She started her career at 51. She collected 145,000 plant specimens in 13 years.",
+      "bio": [
+        "Ynés Mexía was a Mexican-American botanist who began her botanical career at age 51 after a difficult life that included an abusive marriage and a long struggle with mental health. Once she started, she became one of the most prolific plant collectors in history.",
+        "Across thirteen years of fieldwork in Mexico, South America, and Alaska, she collected over 145,000 plant specimens. About 500 of these were species new to science; 50 of them now bear her name. She traveled alone through difficult terrain at an age and in a manner that her male colleagues considered impossible for a woman."
+      ],
+      "obstacles": "Dismissed by male peers as an 'amateur' because of her late start in the field and her lack of formal academic credentials. Faced repeated questioning about whether a woman could safely conduct fieldwork in remote areas, even after years of successful expeditions. Her contributions are still underrepresented in standard histories of botanical collection.",
+      "achievements": [
+        "Over 145,000 plant specimens collected",
+        "Approximately 500 species new to science",
+        "50 species named in her honor",
+        "Major collections at the California Academy of Sciences and the Smithsonian"
+      ],
+      "sources": [
+        { "title": "California Academy of Sciences Biography", "url": "https://www.calacademy.org/explore-science/our-scientists/ynes-mexia" },
+        { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Yn%C3%A9s_Mex%C3%ADa" }
+      ]
+    }
+  ]
+}
