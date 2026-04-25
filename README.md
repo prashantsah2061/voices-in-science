@@ -35,7 +35,7 @@ Go to [github.com](https://github.com) and create a free account if you don't ha
 3. Under **Source**, select the **main** branch and the **/ (root)** folder.
 4. Click **Save**.
 5. Wait one or two minutes. GitHub will publish your site at:
-   `https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/`
+   `https://prashantsah2061.github.io/voices-in-science/`
 
 ### Step 5 — Update the nomination link
 Open `script.js` in your repository (you can edit directly on GitHub by clicking the pencil icon).
@@ -43,8 +43,8 @@ Open `script.js` in your repository (you can edit directly on GitHub by clicking
 Find these three lines near the top:
 
 ```js
-const GITHUB_USER = "YOUR-GITHUB-USERNAME";
-const GITHUB_REPO = "YOUR-REPO-NAME";
+const GITHUB_USER = "prashantsah2061";
+const GITHUB_REPO = "voices-in-science";
 const NOMINATION_EMAIL = "your-email@example.com";
 ```
 

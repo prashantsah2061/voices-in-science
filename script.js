@@ -4,13 +4,13 @@
 
 // ---------- CONFIG ----------
 // Edit these two values after you create your GitHub repo.
-// Example: GITHUB_USER = "janedoe", GITHUB_REPO = "voices-in-science"
-const GITHUB_USER = "YOUR-GITHUB-USERNAME";
-const GITHUB_REPO = "YOUR-REPO-NAME";
+// Example: GITHUB_USER = "prashantsah2061", GITHUB_REPO = "voices-in-science"
+const GITHUB_USER = "prashantsah2061";
+const GITHUB_REPO = "voices-in-science";
 
 // Email fallback for users without a GitHub account.
 // Edit to your real address (or leave the placeholder).
-const NOMINATION_EMAIL = "your-email@example.com";
+const NOMINATION_EMAIL = "prashantsah2061@gmail.com";
 // ----------------------------
 
 const state = {
